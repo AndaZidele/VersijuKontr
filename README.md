@@ -1,1 +1,2 @@
 # VersijuKontr
+Anda Židele
